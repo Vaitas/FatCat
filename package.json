@@ -1,0 +1,20 @@
+{
+  "name": "fat-cat",
+  "version": "1.0.0",
+  "description": "Fat Cat",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --quiet index.js"
+  },
+  "repository": "https://github.com/Kujoro/Fat-Cat.git",
+  "author": "Kujoro <jaronaohnson@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "discord-akairo": "^8.1.0",
+    "discord.js": "^12.3.1",
+    "firebase-admin": "^9.2.0",
+    "log4js": "^6.3.0",
+    "sequelize": "^6.3.5"
+  }
+}
